@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 {
     "cropped_meter.png": {
         "Final_Etiket": "27504,9",
         "OCR_Etiketi": "275049"
     }
+=======
+{
+    "cropped_meter.png": {
+        "Final_Etiket": "27504,9",
+        "OCR_Etiketi": "275049"
+    }
+>>>>>>> ffd5cc1 (Initial commit: Water meter OCR project)
 }
